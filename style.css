@@ -93,8 +93,6 @@ h1 {
 /* ── Links ────────────────────────────────────────────────────────────────── */
 .links {
   margin-top: clamp(3rem, 8vh, 4.5rem);
-  padding-top: 1.5rem;
-  border-top: 1px solid var(--rule);
 }
 
 .label {
